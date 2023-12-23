@@ -43,4 +43,5 @@ Importe o banco de dados:
 Inicie o servidor local:
 
   Certifique-se de que o XAMPP esteja em execução.
-  Acesse o projeto pelo navegador ou através do localhost/MVC.
+  coloque a pasta register_validation em C:\xampp\htdocs
+  Acesse o projeto pelo navegador ou através do localhost/register_validation
