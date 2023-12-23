@@ -28,7 +28,7 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.2.22/xampp-portab
 Passos para Execução:
  - Clone o repositório:
 
-   git clone https://github.com/beartoldyou/reddit-clone.git
+   git clone https://github.com/beartoldyou/register_validation.git
 
 - Instale as dependências com o Composer:
 
