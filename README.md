@@ -3,6 +3,7 @@
 --Desenvolvido por Gabriel Bertoldo--
 
 Ferramentas Utilizadas:
+
 Materialize: Framework de design responsivo baseado em Material Design que foi utilizado para a estilização do front-end.
 
 Composer: Gerenciador de dependências para PHP que facilita a inclusão de bibliotecas e pacotes necessários para o projeto.
