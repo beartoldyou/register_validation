@@ -1,0 +1,22 @@
+{
+    "name": "bertoldo/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "core\\": "core/"
+        },
+        "files":[
+            "config/config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Gabriel Bertoldo",
+            "email": "gabrielsenador2@gmai.com"
+        }
+    ],
+    "require": {
+
+        "php": ">=7.2"
+    }
+}
