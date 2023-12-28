@@ -30,11 +30,6 @@ Passos para Execução:
 
    git clone https://github.com/beartoldyou/register_validation.git
 
-- Instale as dependências com o Composer:
-
-  composer install
-
-
 Importe o banco de dados:
 
 - Utilize o arquivo SQL fornecido no diretório database/cadastro.sql para criar o banco de dados e as tabelas necessárias.   
@@ -44,4 +39,4 @@ Inicie o servidor local:
 
   Certifique-se de que o XAMPP esteja em execução.
   coloque a pasta register_validation em C:\xampp\htdocs
-  Acesse o projeto pelo navegador ou através do localhost/register_validation
+  Acesse o projeto pelo navegador através do localhost/register_validation-main (ou pelo nome da pasta que você definir)
